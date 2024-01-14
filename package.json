@@ -7,7 +7,7 @@
     "steveswork <stephen.isienyi@gmail.com> (https://github.com/steveswork)"
   ],
   "dependencies": {
-    "@webkrafters/auto-bst": "^1.0.4"
+    "@webkrafters/auto-bst": "^1.0.5"
   },
   "description": "auto-bst - Self balancing binary search tree.",
   "devDependencies": {
