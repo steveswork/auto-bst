@@ -6,10 +6,10 @@
   "contributors": [
     "steveswork <stephen.isienyi@gmail.com> (https://github.com/steveswork)"
   ],
-  "dependencies": {
-    "@webkrafters/auto-bst": "^1.0.5"
-  },
   "description": "auto-bst - Self balancing binary search tree.",
+  "dependencies": {
+    "@webkrafters/auto-bst": "^1.0.6"
+  },
   "devDependencies": {
     "@babel/cli": "^7.17.0",
     "@babel/core": "^7.20.5",
@@ -81,5 +81,5 @@
     "test:watch": "eslint --fix && jest --watchAll"
   },
   "types": "dist/index.d.ts",
-  "version": "0.0.91"
+  "version": "0.0.92"
 }
